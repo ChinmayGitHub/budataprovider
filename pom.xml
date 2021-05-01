@@ -12,9 +12,9 @@
 	</parent>
 	
 	<groupId>com.howtodoinjava.demo</groupId>
-	<artifactId>springbootdemo</artifactId>
+	<artifactId>budataprovider</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootDemo</name>
+	<name>budataprovider</name>
 	<description>Spring Boot Demo for http://howtodoinjava.com</description>
 
 	<properties>
